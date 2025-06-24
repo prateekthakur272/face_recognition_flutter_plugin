@@ -79,9 +79,9 @@ FaceRecognitionView(
 
 ## 🎨 Screenshots
 
-*(Include sample screenshots of the plugin in action on Android and iOS)*
-
-
+<img src="https://github.com/user-attachments/assets/72a290ea-4f71-4bbc-8f25-5bbcf4e321f4" 
+       style="height: 500px; object-fit: cover;" 
+       alt="Screenshot">
 
 
 ## 🚧 Platform Support
